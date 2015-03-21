@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains two methods: the first provides a list that contains methods for getting and setting
+## the values of a matrix, as well as getting and setting the inverse value. 
+
+## additionally, this file contains a method for retrieving (any) cached inverse value for this matrix,
+## or calculating a new one and storing the value in the cache.
 
 ## creates a special object to store a matrix value,
 ## as well as its inverse,
